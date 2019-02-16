@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCRSTree", "src\LCRSTree\LCRSTree.csproj", "{B9AE434D-EF10-4BA3-80B6-CD207F6978E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCRSTree.Test", "tests\LCRSTree.Test\LCRSTree.Test.csproj", "{DB3D95EC-DE69-4F3D-A989-3D8843B5EAF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9AE434D-EF10-4BA3-80B6-CD207F6978E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9AE434D-EF10-4BA3-80B6-CD207F6978E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9AE434D-EF10-4BA3-80B6-CD207F6978E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9AE434D-EF10-4BA3-80B6-CD207F6978E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3D95EC-DE69-4F3D-A989-3D8843B5EAF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3D95EC-DE69-4F3D-A989-3D8843B5EAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3D95EC-DE69-4F3D-A989-3D8843B5EAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3D95EC-DE69-4F3D-A989-3D8843B5EAF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E23194F8-ACC5-46A8-BFAB-15CD0C7F6DBC}
+	EndGlobalSection
+EndGlobal
